@@ -15,7 +15,7 @@ namespace SocialMedia.Data
 
         // Foreign Key to Comment via Id w/ virtual Comment
         [ForeignKey (nameof(Comments))]
-        public int CommentID { get; set; }
+        public int? CommentID { get; set; }
         public virtual Comment Comments{ get; set; }
 
         [Required]

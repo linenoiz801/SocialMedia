@@ -22,13 +22,31 @@ namespace SocialMedia.Services
                 new Reply()
                 {
                     AuthorID = _userId,
-                    Text = model.Text
+                    Text = model.Text,
+                    CommentID = model.CommentId
                 };
             using (var ctx = new ApplicationDbContext())
             {
                 ctx.Replies.Add(entity);
                 return ctx.SaveChanges() == 1;
             }
+        }
+
+        private CommentListItem GetCommentById(int commentId)
+        {
+            CommentListItem result = new CommentListItem();
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Comments
+                        .Single(e => e.Id == commentId);
+                result.AuthorId = _userId;
+                result.Id = entity.Id;
+                result.CommentText = entity.CommentText;
+            }
+
+            return result;
         }
 
         public IEnumerable<ReplyListItem> GetReplies()
@@ -45,7 +63,7 @@ namespace SocialMedia.Services
                                 {
                                     Id = e.Id,
                                     Text = e.Text,
-                                    CommentID = e.CommentID
+                                    Comment = GetCommentById(e.Id)
                                 }
                          );
                 return query.ToArray();
