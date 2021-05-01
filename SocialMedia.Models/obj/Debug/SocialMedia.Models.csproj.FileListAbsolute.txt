@@ -14,19 +14,19 @@ C:\dev\ElevenFiftyProjects\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.
 C:\dev\ElevenFiftyProjects\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
 C:\dev\ElevenFiftyProjects\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
 C:\dev\ElevenFiftyProjects\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll.config
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\SocialMedia.Models.pdb
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\EntityFramework.dll
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\EntityFramework.xml
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csprojAssemblyReference.cache
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
-C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll.config
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\SocialMedia.Models.pdb
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\EntityFramework.dll
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\EntityFramework.xml
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csprojAssemblyReference.cache
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
+C:\!NewElevenFiftyProjects\API's\SociaMediaGroupProject\SocialMedia\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
