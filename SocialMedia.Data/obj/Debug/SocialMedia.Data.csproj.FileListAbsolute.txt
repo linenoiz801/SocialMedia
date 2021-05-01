@@ -33,3 +33,38 @@ C:\dev\ElevenFiftyProjects\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Da
 C:\dev\ElevenFiftyProjects\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.CopyComplete
 C:\dev\ElevenFiftyProjects\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.dll
 C:\dev\ElevenFiftyProjects\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.pdb
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\SocialMedia.Data.dll.config
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\SocialMedia.Data.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\SocialMedia.Data.pdb
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\EntityFramework.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Owin.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\System.Web.Http.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\EntityFramework.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\System.Web.Http.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csprojAssemblyReference.cache
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.CoreCompileInputs.cache
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.csproj.CopyComplete
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.dll
+C:\Users\Joshua Denman\source\repos\socialmedia\SocialMedia\SocialMedia.Data\obj\Debug\SocialMedia.Data.pdb
