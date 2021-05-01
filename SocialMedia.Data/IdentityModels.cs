@@ -1,4 +1,5 @@
-﻿using System.Data.Entity;
+﻿using System;
+using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Security.Claims;
@@ -34,13 +35,9 @@ namespace SocialMedia.Data
         }
 
         public DbSet<Post> Posts { get; set; }
-<<<<<<< HEAD
-        public DbSet<Reply> Replies { get; set; }
-
-=======
         public DbSet<Comment> Comments { get; set; }
         public DbSet<Reply> Replies { get; set; }
->>>>>>> e67e10662e56d530d5a8534736072b71a8064a1f
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
@@ -51,6 +48,11 @@ namespace SocialMedia.Data
                 .Configurations
                 .Add(new IdentityUserLoginConfiguration())
                 .Add(new IdentityUserRoleConfiguration());
+        }
+
+        public int SaveChanges()
+        {
+            throw new NotImplementedException();
         }
     }
     public class IdentityUserLoginConfiguration : EntityTypeConfiguration<IdentityUserLogin>
