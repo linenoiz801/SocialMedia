@@ -34,8 +34,13 @@ namespace SocialMedia.Data
         }
 
         public DbSet<Post> Posts { get; set; }
+<<<<<<< HEAD
         public DbSet<Reply> Replies { get; set; }
 
+=======
+        public DbSet<Comment> Comments { get; set; }
+        public DbSet<Reply> Replies { get; set; }
+>>>>>>> e67e10662e56d530d5a8534736072b71a8064a1f
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
