@@ -44,7 +44,8 @@ namespace SocialMedia.Services
                                 new ReplyListItem
                                 {
                                     Id = e.Id,
-                                    Text = e.Text
+                                    Text = e.Text,
+                                    CommentID = e.CommentID
                                 }
                          );
                 return query.ToArray();
