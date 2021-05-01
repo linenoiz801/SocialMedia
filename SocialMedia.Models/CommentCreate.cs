@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Models
 {
-    class CommentCreate
+    public class CommentCreate
     {
         [Key]
         public int Id { get; set; }
@@ -17,5 +17,6 @@ namespace SocialMedia.Models
         public string CommentText { get; set; }
         [Required]
         public Guid AuthorId { get; set; }
+        public int PostId { get; set; }
     }
 }
