@@ -11,7 +11,9 @@ namespace SocialMedia.Models
     {
         [Key]
         public int Id { get; set; }
+
         // Foreign Key to Comment via Id w/ virtual Comment
+
         [Required]
         public string Text { get; set; }
         [Required]
