@@ -16,5 +16,6 @@ namespace SocialMedia.Models
         
         public int PostId { get; set; }
         public virtual PostListItem Post { get; set; }
+
     }
 }

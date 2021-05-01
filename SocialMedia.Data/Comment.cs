@@ -18,6 +18,7 @@ namespace SocialMedia.Data
         public Guid AuthorId { get; set; }
         [ForeignKey("Post")]
         public int PostId { get; set; }
-        public virtual Post Post { get; set; }
+        //public virtual List<Replies> CommentReplies { get; set; }
+
     }
 }

@@ -31,8 +31,28 @@ namespace SocialMedia.Services
                 ctx.Posts.Add(entity);
                 return ctx.SaveChanges() == 1;
             }
-        }
-
+        }       
+        private List<CommentListItem> GetCommentsByPostId(int postId)
+        {
+            List<CommentListItem> result = new List<CommentListItem>();
+            using (var ctx = new ApplicationDbContext())
+            {
+                var query =
+                    ctx
+                        .Comments
+                        .Where(e => e.PostId == postId)
+                        .Select(
+                            e => new CommentListItem
+                            {
+                                Id = e.Id,
+                                PostId = e.PostId,
+                                CommentText = e.CommentText,
+                                AuthorId = e.AuthorId
+                            }
+                        );
+                return query.ToList();
+            }
+        } 
         public IEnumerable<PostListItem> GetPosts()
         {
             using (var ctx = new ApplicationDbContext())
@@ -47,7 +67,8 @@ namespace SocialMedia.Services
                                 {
                                     AuthorId = _userId,
                                     Id = e.Id,
-                                    Title = e.Title                                    
+                                    Title = e.Title,
+                                    Comments = GetCommentsByPostId(e.Id)
                                 }
                         );
                 return query.ToArray();
