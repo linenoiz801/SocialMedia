@@ -10,6 +10,7 @@ namespace SocialMedia.Models
     {
         public int Id { get; set; }
         public string Text { get; set; }
+        public int CommentID { get; set; }
         public virtual CommentListItem Comment { get; set; }
     }
 }
