@@ -28,9 +28,30 @@ namespace SocialMedia.Services
 
             using (var ctx = new ApplicationDbContext())
             {
-
+                ctx.Posts.Add(entity);
+                return ctx.SaveChanges() == 1;
             }
+        }
 
+        public IEnumerable<PostListItem> GetPosts()
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var query =
+                    ctx
+                        .Posts
+                        .Where(e => e.AuthorId == _userId)
+                        .Select(
+                            e =>
+                                new PostListItem
+                                {
+                                    AuthorId = _userId,
+                                    Id = e.Id,
+                                    Title = e.Title                                    
+                                }
+                        );
+                return query.ToArray();
+            }
         }
     }
 }
