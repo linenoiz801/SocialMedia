@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SocialMedia.Models
+namespace SocialMedia.Data
 {
     public class Post
     {
