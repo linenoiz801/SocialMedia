@@ -15,6 +15,7 @@ namespace SocialMedia.Models
         public Guid AuthorId { get; set; }
         
         public int PostId { get; set; }
-        //public virtual List<Replies> CommentReplies { get; set; }
+        public virtual PostListItem Post { get; set; }
+
     }
 }
