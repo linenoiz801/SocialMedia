@@ -63,7 +63,8 @@ namespace SocialMedia.Services
                                 {
                                     Id = e.Id,
                                     Text = e.Text,
-                                    Comment = GetCommentById(e.Id)
+                                    CommentID = (int)e.CommentID
+                                    //Comment = GetCommentById(e.Id)
                                 }
                          );
                 return query.ToArray();

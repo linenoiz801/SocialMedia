@@ -24,7 +24,7 @@ namespace SocialMedia.Services
             var entity =
                 new Comment()
                 {
-                    AuthorId = model.AuthorId,
+                    AuthorId = _userId,
 
                     CommentText = model.CommentText,
 
