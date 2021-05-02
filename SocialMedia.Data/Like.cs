@@ -8,16 +8,13 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Data
 {
-    public class Comment
+    public class Like
     {
         [Key]
         public int Id { get; set; }
-        [Required]
-        public string CommentText { get; set; }        
-        public Guid AuthorId { get; set; }
+        public Guid OwnerId { get; set; }
         [ForeignKey(nameof(Post))]
         public int PostId { get; set; }
         public virtual Post Post { get; set; }
-
     }
 }
