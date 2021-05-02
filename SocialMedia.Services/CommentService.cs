@@ -77,6 +77,7 @@ namespace SocialMedia.Services
             return result;
 
         }
+        /*
         public IEnumerable<CommentListItem> GetComments()
         {
             using (var ctx = new ApplicationDbContext())
@@ -99,5 +100,6 @@ namespace SocialMedia.Services
                 return query.ToArray();
             }
         }
+        */
     }
 }

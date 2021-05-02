@@ -19,6 +19,7 @@ namespace SocialMedia.WebAPI.Controllers
             var postService = new PostService(userId);
             return postService;
         }
+        [Authorize]
 
         public IHttpActionResult Get()
         {
@@ -26,6 +27,7 @@ namespace SocialMedia.WebAPI.Controllers
             var posts = postService.GetPosts();
             return Ok(posts);
         }
+        [Authorize]
         public IHttpActionResult Post(PostCreate post)
         {
             if (!ModelState.IsValid)

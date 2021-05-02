@@ -59,16 +59,16 @@ namespace SocialMedia.Services
             {
                 var query =
                     ctx
-                        .Posts
-                        .Where(e => e.AuthorId == _userId)
+                        .Posts                        
+                        .Where(e => e.AuthorId == _userId)                        
                         .Select(
                             e =>
                                 new PostListItem
                                 {
                                     AuthorId = _userId,
                                     Id = e.Id,
-                                    Title = e.Title,
-                                    Comments = GetCommentsByPostId(e.Id)
+                                    Title = e.Title
+                                    //Comments = GetCommentsByPostId(e.Id)
                                 }
                         );
                 return query.ToArray();
